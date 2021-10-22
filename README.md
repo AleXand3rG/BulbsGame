@@ -20,4 +20,4 @@ The purpose of this project was to learn basics of programming by writing a simp
 
 ## License
 
-- ©Copyright 2018-2021 Aleksander Grzybowski.
+- © Copyright 2018-2021 Aleksander Grzybowski.
